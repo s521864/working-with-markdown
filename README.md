@@ -65,7 +65,7 @@ It can be a bit challenging to find the correct URL for each image.
 Generally, store your embedded images in your repo if they are original, or reference the hosted location for the image if already available on the web. 
 Images look like links with an ! in front, for example, an external image can be displayed as shown below. If desired, use a title as we did with links above.
 
-![Hosted image](https://www.flickr.com/photos/ryanwunsch/24330829813)
+![Hosted image](https://c1.staticflickr.com/2/1520/24330829813_944c817720_b.jpg)
 
 ## Displaying Local Images
 
