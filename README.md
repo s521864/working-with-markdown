@@ -98,4 +98,4 @@ dcase@nwmissouri.edu
 
 ## New Section 
 
-
+[Webpage maps](https://www.google.com/maps/@40.3589785,-94.9182049,13z)
